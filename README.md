@@ -7,3 +7,9 @@ This dataset corresponds to the data set used in:
 
 By:
 Timothy E. Moore, Cynthia S. Jones, Caroline Chong, & Carl D. Schlichting.
+
+This repository is archived at: 
+
+[![DOI](https://zenodo.org/badge/233231064.svg)](https://zenodo.org/badge/latestdoi/233231064)
+
+
